@@ -11,10 +11,10 @@ class ColumnWidget extends StatelessWidget {
       ),
       body: Column(
         children: const [
-          Text('Kolom 1'),
-          Text('Kolom 2'),
-          Text('Kolom 3'),
-          Text('Kolom 4'),
+          Text('Hello World 1'),
+          Text('Hello World 2'),
+          Text('Hello World 3'),
+          Text('Hello World 4'),
         ],
       ),
     );
